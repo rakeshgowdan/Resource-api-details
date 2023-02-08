@@ -1,4 +1,4 @@
-# Resource-api-details
+# Resource-API-details
 
 ![image](https://user-images.githubusercontent.com/41374671/212853355-3fce1d0b-8ec2-4d52-8ca2-0111d2cb8210.png)
 
@@ -10,6 +10,9 @@ An Application Programming Interface, or API, is a means of communication betwee
 The different types of 𝗔𝗣𝗜 𝗽𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀:
 
 ▶️ 𝗥𝗘𝗦𝗧 - REST relies on a client/server approach that separates front and back ends of the API, and provides considerable flexibility in development and implementation.
+
 ▶️ 𝗥𝗣𝗖 - The remote procedural call (RPC) protocol is a simple means to send multiple parameters and receive results.
+
 ▶️ 𝗦𝗢𝗔𝗣 - Supports a wide range of communication protocols found across the internet, such as HTTP, SMTP and TCP.
+
 ▶️ 𝗪𝗲𝗯𝘀𝗼𝗰𝗸𝗲𝘁 - Provides a way to exchange data between browser and server via a persistent connection.
